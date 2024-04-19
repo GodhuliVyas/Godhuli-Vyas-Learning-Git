@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
@@ -7,7 +7,7 @@
 .dice {
   text-align: center;
   display: inline-block;
-
+  border: 2px solid #ff5722;
 }
 
 body {
@@ -15,27 +15,27 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 40px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 4rem;
+  font-size: 4.5rem;
   color: #ffca3a;
 }
 
 p {
-  font-size: 3rem;
+  font-size: 3.5rem;
   color: #fee440;
   font-family: 'Indie Flower', cursive;
 }
 
 img {
-  width: 80%;
+  width: 85%;
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 7%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
+  font-size: 2rem;
 }
