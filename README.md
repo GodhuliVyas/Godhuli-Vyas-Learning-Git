@@ -209,4 +209,9 @@ After making modifications in the collaborator branch, developers can initiate a
  
 ![image](https://github.com/GodhuliVyas/Godhuli-Vyas-Learning-Git/assets/126496013/ffc2bc42-8f51-4b29-8e17-e61831254708)
 
+17.Hosting of Website from Pages Section on GitHub
+![image](https://github.com/GodhuliVyas/Godhuli-Vyas-Learning-Git/assets/126496013/dd40cf18-267d-47a8-aaf6-8a705b82ee73)
+
+![image](https://github.com/GodhuliVyas/Godhuli-Vyas-Learning-Git/assets/126496013/88b2f995-ab9b-439f-88aa-3a3c4fd624f5)
+
 
