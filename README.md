@@ -33,7 +33,8 @@ git config --global user.email "your.email@example.com"
 
 Replace `"Your Name"` with your actual name and `"your.email@example.com"` with your email address. This information will be associated with your commits.
 
-![image](https://github.com/GodhuliVyas/Godhuli-Vyas-Learning-Git/assets/126496013/6a96c12d-37f4-4a65-9cfd-74b6ee8f731b)
+![image](https://github.com/GodhuliVyas/Godhuli-Vyas-Learning-Git/assets/126496013/d29a2aaf-46a1-4492-bee2-adf4a0544b80)
+
 
 
 
